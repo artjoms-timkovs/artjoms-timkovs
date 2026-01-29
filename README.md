@@ -13,7 +13,7 @@ My work focuses on building **The SED Architecture™** (Strategic Direction, Ex
 ### 🛠 The Technical Stack
 * **Analysis & Modelling:** Python (Pandas, NumPy, Scikit-learn), SQL
 * **Infrastructure:** Server-Side GTM, Google Cloud Platform (BigQuery), CAPIs
-* **Automation:** Google Ads Scripts (JavaScript), Custom Alerts
+* **Automation:** Google Ads Scripts, JavaScript, Custom Alerts
 * **Visualization:** Looker Studio, PowerBI
 
 ### 🔭 Current Research & Focus
