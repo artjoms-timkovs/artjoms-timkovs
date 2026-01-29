@@ -22,4 +22,6 @@ My work focuses on building **The SED Architecture™** (Strategic Direction, Ex
 * **Data Integrity:** Constructing first-party data warehouses for a post-cookie web.
 
 ---
-timkovs.art | medium.com/@artjom.timkov | linkedin.com/in/timkov
+timkovs.art 
+medium.com/@artjom.timkov
+linkedin.com/in/timkov
